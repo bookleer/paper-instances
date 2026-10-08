@@ -1,0 +1,16 @@
+RANGE
+4265.9
+NUMBER     CAPACITY      CAPACITY      beta      flight              sl              F
+     6        200                20           3.1125          30            2400.0      30.0
+
+
+CUSTOMER
+CUST NO. XCOORD. YCOORD. DEMAND READY TIME DUE DATE SERVICE TIME TL (degC) TU (degC) HL (%) HU (%)
+ 0 40 50 0 0 1236 0 -4 15 80 100
+ 1 38 70 10 480 660 90 7 10 85 95
+ 2 20 80 40 317 497 90 -1 0 90 95
+ 3 33 32 20 19 199 90 0 3 85 91
+ 4 30 30 10 481 661 90 1 1 95 96
+ 5 44 5 20 227 407 90 0 2 90 95
+ 6 60 85 30 502 682 90 10 12 85 95
+ 7 40 50 0 0 1236 0 -4 15 80 100
